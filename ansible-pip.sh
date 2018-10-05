@@ -3,4 +3,4 @@
 set -ex
 
 sudo pip install --upgrade pip
-sudo /usr/local/bin/pip install ansible
+sudo /usr/local/bin/pip install --upgrade ansible
